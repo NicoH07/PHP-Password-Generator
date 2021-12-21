@@ -1,3 +1,3 @@
 > PHP Password Generator
 
-[video]https://youtu.be/hXuStSBqQiI[/video]
+[![Watch the video](https://youtu.be/hXuStSBqQiI)](https://youtu.be/hXuStSBqQiI)
